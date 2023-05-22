@@ -6,7 +6,7 @@ pandas==0.24.1
 pillow==5.4.1
 pydot==1.4.1
 pytables==3.5.2
-requests==2.20.1
+requests==2.31.0
 scikit-learn==0.20.0
 tensorflow==1.13.1
 tornado==4.5.2
